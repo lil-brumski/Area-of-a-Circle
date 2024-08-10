@@ -1,5 +1,4 @@
 #include <iostream>
-#include <string>
 #include <cmath>
 #include <iomanip>
 #include "areaofcircle.h" 
